@@ -79,7 +79,7 @@ def name_to_category_id(path_class_names):
     with open(path_class_names, 'r') as f:
         classes_names = f.readlines()
     names_to_category_id_dict = collections.OrderedDict()
-    for i, class_name in enumerate(classes_names):
+    for i, class_name in enumerate(classes_names, -1):
         # 拿到名称后，形成字典
         names_to_category_id_dict[class_name.strip()] = str(i)
     return names_to_category_id_dict

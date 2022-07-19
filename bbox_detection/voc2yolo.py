@@ -30,9 +30,13 @@ def voc2yolo(path_data, path_save_data, mode='train'):
         # 首先复制文件到目标区域
         src = '{}/JPEGImages/{}.jpg'.format(path_data, image_name.strip())
         if mode == 'train':
-            dst = '{}/train/{}.jpg'.format(path_save_data, image_name.strip())
+            dst = '{}/images/train/{}.jpg'.format(path_save_data, image_name.strip())
+            if not os.path.exists('{}/images/train'.format(path_save_data)):
+                os.makedirs('{}/images/train'.format(path_save_data))
         else:
-            dst = '{}/test/{}.jpg'.format(path_save_data, image_name.strip())
+            dst = '{}/images/test/{}.jpg'.format(path_save_data, image_name.strip())
+            if not os.path.exists('{}/images/test'.format(path_save_data)):
+                os.makedirs('{}/images/test'.format(path_save_data))
         shutil.copyfile(src, dst)
 
         path_xml = 'Annotations/{}.xml'.format(image_name.strip())
@@ -53,8 +57,8 @@ def voc2yolo(path_data, path_save_data, mode='train'):
             ymin = float(object_i.find('bndbox/ymin').text)
             xmax = float(object_i.find('bndbox/xmax').text)
             ymax = float(object_i.find('bndbox/ymax').text)
-            object_height = xmax - xmin
-            object_width = ymax - ymin
+            object_width = xmax - xmin
+            object_height = ymax - ymin
             x_center = (xmin + object_width / 2) / width
             y_center = (ymin + object_height / 2) / height
             object_width = object_width / width
@@ -63,11 +67,15 @@ def voc2yolo(path_data, path_save_data, mode='train'):
                 '{} {:.6f} {:.6f} {:.6f} {:.6f}\n'.format(category_id, x_center, y_center, object_width, object_height))
         # 接下来将这些信息，保存进text
         if mode == 'train':
-            path_txt = 'train_annotations/{}.txt'.format(image_name.strip())
+            path_txt = 'labels/train/{}.txt'.format(image_name.strip())
             path_txt = os.path.join(path_save_data, path_txt)
+            if not os.path.exists('{}/labels/train'.format(path_save_data)):
+                os.makedirs('{}/labels/train'.format(path_save_data))
         else:
-            path_txt = 'test_annotations/{}.txt'.format(image_name.strip())
+            path_txt = 'labels/test/{}.txt'.format(image_name.strip())
             path_txt = os.path.join(path_save_data, path_txt)
+            if not os.path.exists('{}/labels/test'.format(path_save_data)):
+                os.makedirs('{}/labels/test'.format(path_save_data))
         with open(path_txt, 'w') as f:
             f.writelines(yolo_annotations)
         # 好，现在我们把验证信息搞完之后，要能够将对应区域的图像移动到
@@ -87,6 +95,6 @@ def name_to_category_id(path_class_names):
 
 if __name__ == '__main__':
     # ok 我们现在尝试一下
-    path_data = '../bbox_detection/data_dataset_voc'
-    path_save_data = '../bbox_detection/data_dataset_yolo'
-    voc2yolo(path_data, path_save_data)
+    path_data = r'D:\Users\ChengJiaxiang\Tool\dataset-format-convertion\bbox_detection\gaud_map_dataset_voc'
+    path_save_data = r'D:\Users\ChengJiaxiang\Tool\dataset-format-convertion\bbox_detection\gaud_map_dataset_yolo'
+    voc2yolo(path_data, path_save_data, mode='test')

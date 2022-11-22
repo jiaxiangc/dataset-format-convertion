@@ -96,6 +96,6 @@ def name_to_category_id(path_class_names):
 if __name__ == '__main__':
     # ok 我们现在尝试一下
     path_data = r'D:\Users\ChengJiaxiang\Python\datasets\gaud_map03\images_jiaxiangc\train2022_voc'
-    path_save_data = r'D:\Users\ChengJiaxiang\Python\datasets\gaud_map03\images_jiaxiangc\train2022_yolo'
+    path_save_data = r'D:\Users\ChengJiaxiang\Python\datasets\gaud_map03\images_jiaxiangc\train2022_yolo '
     voc2yolo(path_data, path_save_data, mode='train')
     # voc2yolo(path_data, path_save_data, mode='test')

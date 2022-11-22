@@ -1,0 +1,26 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "plane",
+      "points": [
+        [
+          1784.5070422535211,
+          710.5633802816902
+        ],
+        [
+          1819.718309859155,
+          729.2253521126761
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "train_S729-01_0017.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

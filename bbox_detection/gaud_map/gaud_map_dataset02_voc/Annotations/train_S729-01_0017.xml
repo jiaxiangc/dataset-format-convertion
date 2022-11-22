@@ -1,0 +1,25 @@
+<annotation>
+  <folder/>
+  <filename>train_S729-01_0017.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>1080</height>
+    <width>1920</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>plane</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>1784.5070422535211</xmin>
+      <ymin>710.5633802816902</ymin>
+      <xmax>1819.718309859155</xmax>
+      <ymax>729.2253521126761</ymax>
+    </bndbox>
+  </object>
+</annotation>

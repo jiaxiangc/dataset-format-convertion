@@ -1,0 +1,74 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "plane",
+      "points": [
+        [
+          745.4845360824743,
+          521.7010309278351
+        ],
+        [
+          798.0618556701031,
+          566.0309278350516
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          884.659793814433,
+          486.64948453608247
+        ],
+        [
+          934.1443298969073,
+          523.7628865979382
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1109.4020618556701,
+          416.5463917525774
+        ],
+        [
+          1159.9175257731958,
+          457.7835051546392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1177.4432989690722,
+          494.8969072164948
+        ],
+        [
+          1227.958762886598,
+          522.7319587628866
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "train_S729-03_0012.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

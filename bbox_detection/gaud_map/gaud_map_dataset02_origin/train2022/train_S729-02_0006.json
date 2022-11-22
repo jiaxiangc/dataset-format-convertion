@@ -1,0 +1,154 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "plane",
+      "points": [
+        [
+          125.89690721649484,
+          542.319587628866
+        ],
+        [
+          159.91752577319588,
+          559.8453608247423
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          4.247422680412372,
+          521.7010309278351
+        ],
+        [
+          27.95876288659794,
+          542.319587628866
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          68.16494845360825,
+          549.5360824742269
+        ],
+        [
+          106.30927835051547,
+          565.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          62.63157894736842,
+          647.8947368421052
+        ],
+        [
+          80.78947368421052,
+          661.578947368421
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          92.36842105263158,
+          663.9473684210526
+        ],
+        [
+          115.26315789473684,
+          675.7894736842105
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          73.1578947368421,
+          524.2105263157895
+        ],
+        [
+          98.42105263157895,
+          537.1052631578947
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          110.78947368421052,
+          530.2631578947368
+        ],
+        [
+          133.1578947368421,
+          542.1052631578947
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          150.78947368421052,
+          537.3684210526316
+        ],
+        [
+          169.21052631578945,
+          547.6315789473684
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          185.0,
+          542.8947368421052
+        ],
+        [
+          207.1052631578947,
+          555.7894736842105
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "train_S729-02_0006.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

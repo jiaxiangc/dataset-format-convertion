@@ -1,0 +1,25 @@
+<annotation>
+  <folder/>
+  <filename>data19 (55).jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>256</height>
+    <width>256</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>plane</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>106.2994923857868</xmin>
+      <ymin>128.93401015228426</ymin>
+      <xmax>109.85279187817258</xmax>
+      <ymax>132.99492385786803</ymax>
+    </bndbox>
+  </object>
+</annotation>

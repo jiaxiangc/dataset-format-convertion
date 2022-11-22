@@ -1,0 +1,25 @@
+<annotation>
+  <folder/>
+  <filename>test_gaud-map02_0018.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>1080</height>
+    <width>1920</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>tank</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>279.50515463917526</xmin>
+      <ymin>544.3814432989691</ymin>
+      <xmax>357.8556701030928</xmax>
+      <ymax>590.7731958762887</ymax>
+    </bndbox>
+  </object>
+</annotation>

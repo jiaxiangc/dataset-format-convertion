@@ -1,0 +1,25 @@
+<annotation>
+  <folder/>
+  <filename>train_gaud-map01_0014.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>1080</height>
+    <width>1920</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>plane</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>982.3943661971831</xmin>
+      <ymin>402.46478873239437</ymin>
+      <xmax>1045.0704225352113</xmax>
+      <ymax>449.29577464788736</ymax>
+    </bndbox>
+  </object>
+</annotation>

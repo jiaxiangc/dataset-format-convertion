@@ -1,0 +1,458 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "plane",
+      "points": [
+        [
+          877.0833333333334,
+          662.5
+        ],
+        [
+          903.125,
+          680.2083333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          944.7916666666667,
+          653.6458333333334
+        ],
+        [
+          978.125,
+          669.2708333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1057.8125,
+          639.5833333333334
+        ],
+        [
+          1085.4166666666667,
+          656.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1090.625,
+          655.7291666666667
+        ],
+        [
+          1123.9583333333335,
+          676.0416666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          917.1875,
+          459.89583333333337
+        ],
+        [
+          972.9166666666667,
+          493.75
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          975.5208333333334,
+          455.7291666666667
+        ],
+        [
+          1032.8125,
+          484.89583333333337
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1067.7083333333335,
+          497.39583333333337
+        ],
+        [
+          1123.4375,
+          520.8333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1129.6875,
+          490.625
+        ],
+        [
+          1182.2916666666667,
+          509.89583333333337
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1075.0,
+          461.9791666666667
+        ],
+        [
+          1107.8125,
+          481.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1122.3958333333335,
+          469.7916666666667
+        ],
+        [
+          1157.2916666666667,
+          490.1041666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1163.5416666666667,
+          479.1666666666667
+        ],
+        [
+          1199.4791666666667,
+          495.83333333333337
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1205.2083333333335,
+          487.5
+        ],
+        [
+          1243.75,
+          506.77083333333337
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          227.55905511811022,
+          529.3307086614174
+        ],
+        [
+          258.46456692913387,
+          546.8503937007874
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          268.8976377952756,
+          525.0
+        ],
+        [
+          300.78740157480314,
+          541.9291338582677
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          254.5275590551181,
+          487.00787401574803
+        ],
+        [
+          282.2834645669291,
+          499.8031496062992
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          287.20472440944883,
+          494.68503937007875
+        ],
+        [
+          316.14173228346453,
+          505.70866141732284
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          322.0472440944882,
+          497.0472440944882
+        ],
+        [
+          340.3543307086614,
+          509.251968503937
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          331.2992125984252,
+          477.755905511811
+        ],
+        [
+          355.11811023622045,
+          488.7795275590551
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          356.1023622047244,
+          480.11811023622045
+        ],
+        [
+          379.7244094488189,
+          492.3228346456693
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          391.33858267716533,
+          489.1732283464567
+        ],
+        [
+          418.7007874015748,
+          500.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          401.3779527559055,
+          469.48818897637796
+        ],
+        [
+          417.7165354330709,
+          479.7244094488189
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          424.40944881889766,
+          472.0472440944882
+        ],
+        [
+          442.7165354330709,
+          486.4173228346457
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          443.7007874015748,
+          476.7716535433071
+        ],
+        [
+          460.03937007874015,
+          487.99212598425197
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          474.8031496062992,
+          458.26771653543307
+        ],
+        [
+          497.4409448818898,
+          470.6692913385827
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          518.8976377952756,
+          473.62204724409446
+        ],
+        [
+          497.0472440944882,
+          461.4173228346457
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          531.2992125984252,
+          469.29133858267716
+        ],
+        [
+          554.1338582677165,
+          480.70866141732284
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          556.496062992126,
+          473.4251968503937
+        ],
+        [
+          580.1181102362204,
+          485.03937007874015
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          567.7165354330708,
+          494.48818897637796
+        ],
+        [
+          541.3385826771654,
+          481.8897637795275
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "test_S729-01_0029.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

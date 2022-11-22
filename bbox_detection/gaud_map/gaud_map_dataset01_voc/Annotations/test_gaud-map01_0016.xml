@@ -1,0 +1,25 @@
+<annotation>
+  <folder/>
+  <filename>test_gaud-map01_0016.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>1080</height>
+    <width>1920</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>plane</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>1061.979381443299</xmin>
+      <ymin>376.340206185567</ymin>
+      <xmax>1126.9278350515465</xmax>
+      <ymax>424.79381443298973</ymax>
+    </bndbox>
+  </object>
+</annotation>

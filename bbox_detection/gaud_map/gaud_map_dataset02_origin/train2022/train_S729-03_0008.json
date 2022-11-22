@@ -1,0 +1,122 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "plane",
+      "points": [
+        [
+          816.6185567010309,
+          555.7216494845361
+        ],
+        [
+          870.2268041237114,
+          587.680412371134
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          945.4845360824743,
+          515.5154639175258
+        ],
+        [
+          990.8453608247423,
+          554.6907216494845
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1156.8247422680413,
+          459.84536082474233
+        ],
+        [
+          1209.4020618556701,
+          490.7731958762887
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1217.6494845360826,
+          522.7319587628866
+        ],
+        [
+          1274.3505154639176,
+          552.6288659793814
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1498.0618556701031,
+          16.546391752577335
+        ],
+        [
+          1557.8556701030927,
+          53.65979381443299
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1637.2371134020618,
+          34.07216494845363
+        ],
+        [
+          1564,
+          0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1319.7113402061857,
+          22.73195876288662
+        ],
+        [
+          1201,
+          0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "train_S729-03_0008.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

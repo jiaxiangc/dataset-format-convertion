@@ -1,0 +1,37 @@
+<annotation>
+  <folder/>
+  <filename>data02 (6).jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>256</height>
+    <width>256</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>plane</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>121.46507666098807</xmin>
+      <ymin>128.4497444633731</ymin>
+      <xmax>132.1976149914821</xmax>
+      <ymax>133.0494037478705</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>plane</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>163.7137989778535</xmin>
+      <ymin>121.29471890971038</ymin>
+      <xmax>178.02385008517888</xmax>
+      <ymax>128.62010221465076</ymax>
+    </bndbox>
+  </object>
+</annotation>

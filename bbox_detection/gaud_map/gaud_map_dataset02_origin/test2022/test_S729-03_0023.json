@@ -1,0 +1,74 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "plane",
+      "points": [
+        [
+          731.0515463917526,
+          491.80412371134025
+        ],
+        [
+          804.2474226804123,
+          533.0412371134021
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          904.2474226804123,
+          426.85567010309285
+        ],
+        [
+          961.979381443299,
+          477.37113402061857
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1167.1340206185566,
+          340.25773195876286
+        ],
+        [
+          1233.1134020618556,
+          386.64948453608247
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plane",
+      "points": [
+        [
+          1237.2371134020618,
+          437.1649484536083
+        ],
+        [
+          1311.4639175257732,
+          479.4329896907217
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "test_S729-03_0023.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}
